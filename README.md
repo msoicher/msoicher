@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Soicher, a penultimate student studying Computer Science at UNSW
+- 👋 Hi, I’m Matt, a penultimate student studying Computer Science at UNSW
 - 👀 I love coding and hope to find work in software development
 - 🌱 I have experience working in software when I worked in dev at a small SME lending firm.
 - 💞️ I’m looking to collaborate on anything and everything!
