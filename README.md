@@ -1,4 +1,4 @@
-Junior Software Engineer at DiviPay
+Junior Software Engineer at Weel
 
 <!---
 msoicher/msoicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
